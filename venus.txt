@@ -1,0 +1,1 @@
+How do we know where to build a base if we don't see the surface?
